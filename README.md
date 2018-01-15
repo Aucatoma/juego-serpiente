@@ -1,5 +1,5 @@
 <h1>Juego de la serpiente desarrollado en C++</h1>
-<p style="text-align:justify;">Este es el clásico juego de <a href="https://es.wikipedia.org/wiki/La_serpiente_(videojuego)">la serpiente</a>, puede ejecutarse en plataformas <b>Linux</b> que cuenten con la librería <b>NCURSES</b> instalada.<p>
+<p style="text-align:justify;">Este es el clásico juego de <a href="https://es.wikipedia.org/wiki/La_serpiente_(videojuego)">la serpiente</a>, puede ejecutarse en plataformas <b>Linux</b> que cuenten con la librería <b>NCURSES</b> instalada. Las figuras del juego están representadas por caracteres ASCII imprimibles.<p>
  <h2>Requisitos</h2>
     <p style="text-align:justify;">Para poder compilar y ejecutar este proyecto debe tener instalado la librería NCURSES y un compilador de C++.</p>
 <h2>Compilación</h2>
