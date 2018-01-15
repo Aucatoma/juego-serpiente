@@ -2,8 +2,8 @@
 <p style="text-align:justify;">Este es el clásico juego de <a href="https://es.wikipedia.org/wiki/La_serpiente_(videojuego)">la serpiente</a>, puede ejecutarse en plataformas <b>Linux</b> que cuenten con la librería <b>NCURSES</b> instalada.<p>
  <h2>Requisitos</h2>
     <p style="text-align:justify;">Para poder compilar y ejecutar este proyecto debe tener instalado la librería NCURSES y un compilador de C++.</p>
-<h2>Compilación<h2>
-  <p>Para compilar este proyecto se puede proceder de la siguiente manera:</p>
+<h2>Compilación</h2>
+<p>Para compilar este proyecto se puede proceder de la siguiente manera:</p>
     <ul>
       <li>Abrir una terminal.</li>
       <li>Ubicarse en el directorio donde se encuentran los archivos de código fuente.</li>
