@@ -1,2 +1,3 @@
 # snake
-<h1>Juego Snake desarrollado en C++</h1>
+<h1 style="color: red;">Juego de la serpiente desarrollado en C++</h1>
+ 
